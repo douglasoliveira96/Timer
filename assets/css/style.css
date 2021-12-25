@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 :root {
-  --primary-color: rgb(17, 86, 102);
+  --primary-color: #1E71A6;
   --primary-color-darker: rgb(9, 48, 56);
 }
 
@@ -13,7 +13,7 @@ body {
   margin: 0;
   padding: 0;
   background: var(--primary-color);
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 1.3em;
   line-height: 1.5em;
 }
@@ -59,8 +59,19 @@ form button:hover {
 
 .relogio {
   font-size: 3em;
+  text-align: center;
 }
 
 .pausado {
-  color: red;
+  color: #F23838;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.botao {
+  text-align: center;
 }
