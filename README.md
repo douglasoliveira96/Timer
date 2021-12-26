@@ -3,3 +3,5 @@ Criei um Timer usando Javascript com base no conteúdo aprendido no Curso de Jav
 
 Acesse: https://timer-azul.netlify.app/
 
+https://user-images.githubusercontent.com/79033956/147412953-03cc1996-3b3a-4256-b5c0-29878c6a903c.mp4
+
